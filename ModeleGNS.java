@@ -30,7 +30,7 @@ public class ModeleGNS {
 		return -1 ;
 	}
 	
-	public Promo getTournoi( int numero ){
+	public Tournoi getTournoi( int numero ){
 		
 		// Exercice 5 - Votre code ici
 				
