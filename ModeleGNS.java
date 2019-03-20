@@ -16,7 +16,7 @@ public class ModeleGNS {
 	}
 
 	
-	private int genererNouveauNumero(){
+	public int genererNouveauNumero(){
 		
 		// Exercice 6 - Votre code ici
 		
