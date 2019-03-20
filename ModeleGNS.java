@@ -73,9 +73,7 @@ public class ModeleGNS {
 	}
 	
 	private void peupler(){
-		
-		
-		LocalDate.of()
+
 		
 		this.lesTournois.add( new Tournoi( 101 , LocalDate.of(2019,3,15) , LocalDate.of(2019,3,18) ) ) ;
 		this.lesTournois.add( new Tournoi( 102 , LocalDate.of(2019,3,17) , LocalDate.of(2019,3,18) ) ) ;
